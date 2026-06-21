@@ -17,7 +17,7 @@ A sliding puzzle (8-puzzle) game built with Java / JavaFX — 3x3 grid, scoring,
 
 | Home | Game | Lose |
 |---|---|---|
-| ![Home](home.png) | ![Game](game.png) | ![Lose](lose.png) |
+| ![Home](Home.png) | ![Game](Game.png) | ![Lose](Lose.png) |
 
 ## Tech Stack
 
